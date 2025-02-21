@@ -9,7 +9,7 @@ This is a simple game written in Python and it is free to use.
 
 ## How to Play
 The rules of this game are defined in a picture. If you're unsure about how to play, simply open the image provided and check the rules.
-
+https://github.com/Coderh142/Python-projects-/blob/0359e85fa265d925716d68f75b6bf98e0d938d05/rock%20paper%20scissor.png
 ## Requirements
 - Python 3.x
 
