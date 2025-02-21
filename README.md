@@ -1,4 +1,4 @@
-# ************* Simple Python Game ************
+# Simple Python Game
 
 ## Description
 This is a simple game written in Python and it is free to use. 
