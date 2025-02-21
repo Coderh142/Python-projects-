@@ -1,7 +1,3 @@
-Here's a simple README file based on the text you provided:
-
----
-
 # ************* Simple Python Game ************
 
 ## Description
