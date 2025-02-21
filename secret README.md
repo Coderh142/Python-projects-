@@ -6,7 +6,8 @@ This is a simple Secret Code Generator written in Python. The program allows you
 ## Encoding Rules:
 The program moves the first character of the string to the end.
 Then, it adds 3 characters at the start and the end of the string.
-
+# Output for Encoding
+           https://github.com/Coderh142/Python-projects-/blob/34aeb028b50ed7d1caa952787396016c1531243c/Encoding.png
 ## Example:
             hello world  ---> NjWello worldhNjW
 
