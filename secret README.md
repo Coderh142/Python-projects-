@@ -6,7 +6,7 @@ This is a simple Secret Code Generator written in Python. The program allows you
 ## Encoding Rules:
 The program moves the first character of the string to the end.
 Then, it adds 3 characters at the start and the end of the string.
-# Output for Encoding:
+# image of Output for Encoding:
            https://github.com/Coderh142/Python-projects-/blob/34aeb028b50ed7d1caa952787396016c1531243c/Encoding.png
 ## Example:
             hello world  ---> NjWello worldhNjW
@@ -16,8 +16,8 @@ To decode the message, simply apply the reverse of the encoding rules. The encod
 
 Removing the last 3 characters and the first 3 characters.
 Then, the last character of the string is moved back to it's original position.
-# Output for Decoding:
-                  
+# image of Output for Decoding:
+                  https://github.com/Coderh142/Python-projects-/blob/4378b859d9a7aafb572aa66f472807d997f4e0d5/Decoding.png
 ## Example:
             NjWello worldhNjW  ---> hello world
       
@@ -32,7 +32,6 @@ Then, the last character of the string is moved back to it's original position.
   The program will apply the rules and show the resulting encoded or decoded message.
   
 ## Example Usage:
-## *Copy
 Enter action (1 for encode, 0 for decode): 1
 Enter your message: hello world
 Encoded message: NjWello worldhNjW
